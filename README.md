@@ -8,8 +8,8 @@ The objective was to analyze recruitment data, identify patterns across the hiri
 Deliverables
 📄 Recruitment Data Analysis Report (PDF)
 📊 Presentation (PowerPoint)
-Methodology
 
+Methodology
 The analysis included:
 Exploratory Data Analysis (EDA)
 Recruitment Funnel Analysis
