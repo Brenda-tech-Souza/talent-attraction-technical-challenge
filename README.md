@@ -10,6 +10,7 @@ Deliverables
 📊 Presentation (PowerPoint)
 
 Methodology
+
 The analysis included:
 Exploratory Data Analysis (EDA)
 Recruitment Funnel Analysis
